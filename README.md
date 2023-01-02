@@ -1,1 +1,1 @@
-Este a una interfaz simple la en la cual se muestran los Digimons disponibles en la serio con una pequeña imagen y su nombre
+Esta es una interfaz simple la en la cual se muestran los Digimons disponibles en la serio con una pequeña imagen y su nombre
